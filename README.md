@@ -1,2 +1,1 @@
-# OnSeeingRobotsAlanMackworth
-Repositorio para o artigo On Seeing Robots de Alan Mackworth sobre futebol robótico
+Alan Mackworth e seu grupo propuseram e construíram os primeiros robôs de futebol do mundo, o que levou ao desenvolvimento do futebol robótico como a principal plataforma global para pesquisa robótica multiagente por meio da International RoboCup Foundation, onde ele foi homenageado como "O Pai Fundador". A ideia foi mencionada pela primeira vez em um artigo intitulado On Seeing Robots, apresentado na VI-92, 1992 e posteriormente publicado em um livro Computer Vision: System, Theory, and Applications, World Scientific Press, Singapura, 1993.
